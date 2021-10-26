@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7885087a-3f99-400c-9a74-da6fb13b416a" name="Default" comment="" />
+    <ignored path="Intranet.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="FLATTEN" value="false" />
+    <option name="GROUP_BY_TYPE" value="true" />
+    <option name="SORT_CHILDREN" value="false" />
+    <option name="SHOW_TABLE_CONSTRAINTS" value="true" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="Intranet" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="augmentation.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/avenant/voy/augmentation.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-16.038462">
+              <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+              <folding>
+                <marker date="1631803059688" expanded="true" signature="579:625" placeholder="select * fro..policew..." />
+                <marker date="1631803059688" expanded="true" signature="977:1112" placeholder="select cod_z..avenantw..." />
+                <marker date="1631803059688" expanded="true" signature="1054:1111" placeholder="select max(c..avenantw..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="mpaiement.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/php/avenant/voy/mpaiement.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.807693">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding>
+                <marker date="1631786657906" expanded="true" signature="657:699" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="validationav.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/php/avenant/voy/validationav.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7714885">
+              <caret line="490" column="0" selection-start-line="490" selection-start-column="0" selection-end-line="490" selection-end-column="0" />
+              <folding>
+                <marker date="1632039359813" expanded="true" signature="894:960" placeholder="SELECT `com`..." />
+                <marker date="1632039359813" expanded="true" signature="1116:1163" placeholder="SELECT * fro..." />
+                <marker date="1632039359813" expanded="true" signature="1841:1897" placeholder="SELECT seque..." />
+                <marker date="1632039359813" expanded="true" signature="2065:2194" placeholder="select cod_z..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="2139:2193" placeholder="select max(c..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="2358:2412" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="2735:2783" placeholder="select cod_z..pays..." />
+                <marker date="1632039359813" expanded="true" signature="3081:3645" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="4085:4648" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="4861:4942" placeholder="SELECT max(c..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="5080:5182" placeholder="UPDATE modif..." />
+                <marker date="1632039359813" expanded="true" signature="5273:5761" placeholder="insert into ..." />
+                <marker date="1632039359813" expanded="true" signature="5835:5923" placeholder="delete from ..." />
+                <marker date="1632039359813" expanded="true" signature="6071:6162" placeholder="SELECT MAX(p..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="6326:6620" placeholder="select p.cod..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="6691:6883" placeholder="select p.cod..policew..." />
+                <marker date="1632039359813" expanded="true" signature="7138:7711" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="8175:8231" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="8380:8435" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="8725:8992" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="9500:9553" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="9867:9920" placeholder="select *from..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="10052:10112" placeholder="select *from..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="10299:10359" placeholder="select *from..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="10596:10658" placeholder="select *from..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="10831:11060" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="11405:11634" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="12126:12181" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="12331:12627" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="13456:13511" placeholder="select * fro..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="13737:13998" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="14822:15423" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="15729:15787" placeholder="select sum(p..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="15975:16548" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="16910:16984" placeholder="select sum(p..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="17280:17860" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="18552:18607" placeholder="SELECT age f..souscripteurw..." />
+                <marker date="1632039359813" expanded="true" signature="18755:18835" placeholder="SELECT * FRO..." />
+                <marker date="1632039359813" expanded="true" signature="19032:19309" placeholder="SELECT a.* F..." />
+                <marker date="1632039359813" expanded="true" signature="19839:19923" placeholder="select sum(p..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="19839:19929" placeholder="select sum(p..avenantw..." />
+                <marker date="1632039359813" expanded="true" signature="20312:20898" placeholder="INSERT INTO ..." />
+                <marker date="1632039359813" expanded="true" signature="20947:20975" placeholder="update polic..." />
+                <marker date="1632039359813" expanded="true" signature="20947:20983" placeholder="update polic..." />
+                <marker date="1632039359813" expanded="true" signature="20947:21023" placeholder="update polic..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="avpolvoyind.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/produit/avpolvoyind.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-24.192308">
+              <caret line="130" column="91" selection-start-line="130" selection-start-column="85" selection-end-line="130" selection-end-column="91" />
+              <folding>
+                <marker date="1631800739466" expanded="true" signature="395:732" placeholder="SELECT d.`co..." />
+                <marker date="1631800739466" expanded="true" signature="895:1247" placeholder="SELECT d.`co..." />
+                <marker date="1631800739466" expanded="true" signature="1333:1638" placeholder="SELECT d.`co..." />
+                <marker date="1631800739466" expanded="true" signature="1801:2121" placeholder="SELECT d.`co..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".htaccess" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sortie/.htaccess">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="57" column="43" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="43" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavaug.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sortie/pavaug.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-15.653846">
+              <caret line="123" column="69" selection-start-line="123" selection-start-column="69" selection-end-line="123" selection-end-column="69" />
+              <folding>
+                <marker date="1631804402806" expanded="true" signature="590:939" placeholder="SELECT s.*,v..." />
+                <marker date="1631804402806" expanded="true" signature="1078:1232" placeholder="select * fro..utilisateurs..." />
+                <marker date="1631804402806" expanded="true" signature="1123:1231" placeholder="select id_us..souscripteurw..." />
+                <marker date="1631804402806" expanded="true" signature="1173:1230" placeholder="select cod_s..policew..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavdest.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sortie/pavdest.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-26.807692">
+              <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+              <folding>
+                <marker date="1631803973497" expanded="true" signature="590:884" placeholder="SELECT s.*,v..." />
+                <marker date="1631803973497" expanded="true" signature="1019:1173" placeholder="select * fro..utilisateurs..." />
+                <marker date="1631803973497" expanded="true" signature="1064:1172" placeholder="select id_us..souscripteurw..." />
+                <marker date="1631803973497" expanded="true" signature="1114:1171" placeholder="select cod_s..policew..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pavind.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sortie/pavind.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="22.846153">
+              <caret line="65" column="42" selection-start-line="64" selection-start-column="7" selection-end-line="65" selection-end-column="42" />
+              <folding>
+                <marker date="1626172402844" expanded="true" signature="571:952" placeholder="SELECT s.*,v..." />
+                <marker date="1626172402844" expanded="true" signature="1198:1352" placeholder="select * fro..utilisateurs..." />
+                <marker date="1626172402844" expanded="true" signature="1243:1351" placeholder="select id_us..souscripteurw..." />
+                <marker date="1626172402844" expanded="true" signature="1293:1350" placeholder="select cod_s..policew..." />
+                <marker date="1626172402844" expanded="true" signature="5622:5697" placeholder="SELECT * FRO..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="destination.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/produit/voyage/indi/phy/destination.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.30769232">
+              <caret line="343" column="64" selection-start-line="343" selection-start-column="64" selection-end-line="343" selection-end-column="64" />
+              <folding>
+                <marker date="1626172224410" expanded="true" signature="1150:1170" placeholder="SELECT * FRO..." />
+                <marker date="1626172224410" expanded="true" signature="1826:1986" placeholder="SELECT o.* F..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="devi.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/produit/voyage/indi/phy/devi.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.96153843">
+              <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+              <folding>
+                <marker date="1626172224324" expanded="true" signature="746:812" placeholder="SELECT `com`..." />
+                <marker date="1626172224324" expanded="true" signature="1119:1195" placeholder="SELECT * FRO..." />
+                <marker date="1626172224324" expanded="true" signature="1380:1422" placeholder="select * fro..pays..." />
+                <marker date="1626172224324" expanded="true" signature="1559:1614" placeholder="select * fro..souscripteurw..." />
+                <marker date="1626172224324" expanded="true" signature="1757:1811" placeholder="select * fro..souscripteurw..." />
+                <marker date="1626172224324" expanded="true" signature="1958:2222" placeholder="SELECT a.* F..." />
+                <marker date="1626172224324" expanded="true" signature="2663:3137" placeholder="INSERT INTO ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/adm/avpolassiaccind.php" />
+        <option value="$PROJECT_DIR$/sp/avpolvoygrp.php" />
+        <option value="$PROJECT_DIR$/sp/avpolvoyfam.php" />
+        <option value="$PROJECT_DIR$/sp/avpolvoycpl.php" />
+        <option value="$PROJECT_DIR$/sp/avpolvoyind.php" />
+        <option value="$PROJECT_DIR$/sp/superviseur.php" />
+        <option value="$PROJECT_DIR$/superviseur.php" />
+        <option value="$PROJECT_DIR$/dr/avpolassward.php" />
+        <option value="$PROJECT_DIR$/dr/avpolasscim.php" />
+        <option value="$PROJECT_DIR$/dr/avpolassiaccind.php" />
+        <option value="$PROJECT_DIR$/dr/avpolassiaccgrp.php" />
+        <option value="$PROJECT_DIR$/dr/apolvoyind.php" />
+        <option value="$PROJECT_DIR$/sp/apolvoyind.php" />
+        <option value="$PROJECT_DIR$/sp/apolassvoycpl.php" />
+        <option value="$PROJECT_DIR$/dr/apolassvoycpl.php" />
+        <option value="$PROJECT_DIR$/dr/apolassvoyfam.php" />
+        <option value="$PROJECT_DIR$/dr/apolassvoygrp.php" />
+        <option value="$PROJECT_DIR$/sp/apolassvoygrp.php" />
+        <option value="$PROJECT_DIR$/sp/apolassvoyfam.php" />
+        <option value="$PROJECT_DIR$/adm/polasstd.php" />
+        <option value="$PROJECT_DIR$/dr/polasstd.php" />
+        <option value="$PROJECT_DIR$/sp/avpolasstd.php" />
+        <option value="$PROJECT_DIR$/dr/avpolasstd.php" />
+        <option value="$PROJECT_DIR$/sp/polasstd.php" />
+        <option value="$PROJECT_DIR$/sp/avpolasscim.php" />
+        <option value="$PROJECT_DIR$/sp/polassiaccind.php" />
+        <option value="$PROJECT_DIR$/dr/polassiaccind.php" />
+        <option value="$PROJECT_DIR$/sp/avpolassiaccind.php" />
+        <option value="$PROJECT_DIR$/adm/polassiaccgrp.php" />
+        <option value="$PROJECT_DIR$/sp/avpolassiaccgrp.php" />
+        <option value="$PROJECT_DIR$/sp/avpolassward.php" />
+        <option value="$PROJECT_DIR$/dr/polassward.php" />
+        <option value="$PROJECT_DIR$/sp/polassward.php" />
+        <option value="$PROJECT_DIR$/dr/polassiaccgrp.php" />
+        <option value="$PROJECT_DIR$/dr/polasscim.php" />
+        <option value="$PROJECT_DIR$/sp/polasscim.php" />
+        <option value="$PROJECT_DIR$/sp/polassiaccgrp.php" />
+        <option value="$PROJECT_DIR$/sortie/pgpol.php" />
+        <option value="$PROJECT_DIR$/sortie/pfpol.php" />
+        <option value="$PROJECT_DIR$/sortie/pcpol.php" />
+        <option value="$PROJECT_DIR$/doc/file/Upload.php" />
+        <option value="$PROJECT_DIR$/sortie/ppol.php" />
+        <option value="$PROJECT_DIR$/produit/devisvoyind.php" />
+        <option value="$PROJECT_DIR$/php/avenant/voy/fav.php" />
+        <option value="$PROJECT_DIR$/produit/avpolvoyind.php" />
+        <option value="$PROJECT_DIR$/php/avenant/voy/mpaiement.php" />
+        <option value="$PROJECT_DIR$/php/avenant/voy/augmentation.php" />
+        <option value="$PROJECT_DIR$/sortie/.htaccess" />
+        <option value="$PROJECT_DIR$/sortie/pavdest.php" />
+        <option value="$PROJECT_DIR$/sortie/pavaug.php" />
+        <option value="$PROJECT_DIR$/php/avenant/voy/validationav.php" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1296" />
+    <option name="height" value="696" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sortie" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Intranet" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="produit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\Intranet\sp" />
+      <recent name="C:\wamp\www\Intranet\dr" />
+      <recent name="C:\wamp\www\Intranet\adm" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7885087a-3f99-400c-9a74-da6fb13b416a" name="Default" comment="" />
+      <created>1523271618226</created>
+      <option name="number" value="Default" />
+      <updated>1523271618226</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1296" height="696" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3015625" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.050111357" sideWeight="0.5085561" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15924276" sideWeight="0.49144384" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.050111357" sideWeight="0.5085561" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20106952" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32994652" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.15924276" sideWeight="0.49144384" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/adm/apolvoyind.php</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/dr/polassiaccgrp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.115385">
+          <caret line="68" column="27" selection-start-line="68" selection-start-column="27" selection-end-line="68" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/polasscim.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-27.0">
+          <caret line="70" column="56" selection-start-line="70" selection-start-column="56" selection-end-line="70" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/polassward.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.0">
+          <caret line="69" column="69" selection-start-line="69" selection-start-column="69" selection-end-line="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/polasstd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53846157">
+          <caret line="115" column="40" selection-start-line="115" selection-start-column="40" selection-end-line="115" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/apolassvoycpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-66.0">
+          <caret line="147" column="71" selection-start-line="147" selection-start-column="71" selection-end-line="147" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/apolassvoyfam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.53846157">
+          <caret line="36" column="25" selection-start-line="36" selection-start-column="25" selection-end-line="36" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/apolassvoygrp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="20.346153">
+          <caret line="16" column="55" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/apolvoyind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="156" column="60" selection-start-line="156" selection-start-column="60" selection-end-line="156" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/polasscim.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="65" selection-start-line="69" selection-start-column="65" selection-end-line="69" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/polassiaccgrp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="62" column="27" selection-start-line="62" selection-start-column="27" selection-end-line="62" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/polassiaccind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="51" column="10" selection-start-line="51" selection-start-column="10" selection-end-line="51" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/polasstd.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="25" column="4" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sp/polassward.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="69" selection-start-line="69" selection-start-column="69" selection-end-line="69" selection-end-column="69" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/apolassvoycpl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="137" column="50" selection-start-line="137" selection-start-column="50" selection-end-line="137" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/apolassvoyfam.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="152" column="30" selection-start-line="152" selection-start-column="30" selection-end-line="152" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/apolassvoygrp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="55" selection-start-line="17" selection-start-column="44" selection-end-line="17" selection-end-column="55" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dr/apolvoyind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="82" column="16" selection-start-line="82" selection-start-column="16" selection-end-line="82" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pgpol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-39.03846">
+          <caret line="356" column="44" selection-start-line="356" selection-start-column="44" selection-end-line="356" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pfpol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-25.615385">
+          <caret line="332" column="11" selection-start-line="332" selection-start-column="11" selection-end-line="332" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pcpol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.14606741">
+          <caret line="304" column="35" selection-start-line="304" selection-start-column="35" selection-end-line="304" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/file/lifiles.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/file/chargement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/file/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/iaccidg/phy/importerfile.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.26881722">
+          <caret line="33" column="81" selection-start-line="33" selection-start-column="81" selection-end-line="33" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/acceuil.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="319" column="9" selection-start-line="319" selection-start-column="9" selection-end-line="319" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/file/charger.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="27" column="30" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/doc/file/Upload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="92" column="104" selection-start-line="92" selection-start-column="104" selection-end-line="92" selection-end-column="104" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/ppol.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="347" column="631" selection-start-line="347" selection-start-column="631" selection-end-line="347" selection-end-column="731" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/voyage/indi/typ_sousc.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="8" column="44" selection-start-line="8" selection-start-column="35" selection-end-line="8" selection-end-column="44" />
+          <folding>
+            <marker date="1626172223277" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/devisvoyind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <folding>
+            <marker date="1631610136903" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1631610136903" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1631610136903" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1631610136903" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1626171947679" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..utilisateurs..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/testmail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.03807391">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding>
+            <element signature="e#8#42#0#PHP" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/voyage/indi/phy/sous.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="180" column="40" selection-start-line="180" selection-start-column="40" selection-end-line="180" selection-end-column="56" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/poldevisvoyind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0">
+          <caret line="64" column="0" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+          <folding>
+            <marker date="1626172208716" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1626172208716" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1626172208716" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+            <marker date="1626172208716" expanded="true" signature="-1:-1" placeholder="SELECT d.`co..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/commission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="34.307693">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1626172209903" expanded="true" signature="-1:-1" placeholder="select agenc..utilisateurs..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pcommission.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="52.96154">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select adr_u..utilisateurs..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select * fro..produit..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select count..sequence..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select p.seq..policew..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select v.seq..avenantw..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select count..sequence..." />
+            <marker date="1626172401197" expanded="true" signature="-1:-1" placeholder="select v.seq..avenantw..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/report_date.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.43784994">
+          <caret line="23" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="144" selection-end-column="0" />
+          <folding>
+            <marker date="1626172188751" expanded="true" signature="-1:-1" placeholder="select * fro..policew..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/fav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-12.490566">
+          <caret line="211" column="60" selection-start-line="211" selection-start-column="48" selection-end-line="211" selection-end-column="60" />
+          <folding>
+            <marker date="1631784635217" expanded="true" signature="-1:-1" placeholder="SELECT j.min..." />
+            <marker date="1631784635217" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..souscripteurw..." />
+            <marker date="1631784635217" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..souscripteurw..." />
+            <marker date="1631784635217" expanded="true" signature="-1:-1" placeholder="select count..avenantw..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/destination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="8.807693">
+          <caret line="127" column="5" selection-start-line="127" selection-start-column="5" selection-end-line="127" selection-end-column="5" />
+          <folding>
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="SELECT MAX(p..avenantw..." />
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="select p.cod..avenantw..." />
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="select p.cod..policew..." />
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1626172189258" expanded="true" signature="-1:-1" placeholder="select ndat_..policew..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/validation/validation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.53303474">
+          <caret line="40" column="23" selection-start-line="40" selection-start-column="23" selection-end-line="40" selection-end-column="23" />
+          <folding>
+            <marker date="1626172207295" expanded="true" signature="-1:-1" placeholder="SELECT `com`..." />
+            <marker date="1626172207295" expanded="true" signature="-1:-1" placeholder="SELECT * fro..." />
+            <marker date="1626172207295" expanded="true" signature="-1:-1" placeholder="SELECT seque..." />
+            <marker date="1626172207295" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/validation/voy/fval.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="52.96154">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1626172207702" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..." />
+            <marker date="1626172207702" expanded="true" signature="-1:-1" placeholder="SELECT id_ag..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/voyage/indi/phy/destination.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.30769232">
+          <caret line="343" column="64" selection-start-line="343" selection-start-column="64" selection-end-line="343" selection-end-column="64" />
+          <folding>
+            <marker date="1626172224410" expanded="true" signature="1150:1170" placeholder="SELECT * FRO..." />
+            <marker date="1626172224410" expanded="true" signature="1826:1986" placeholder="SELECT o.* F..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/voyage/indi/phy/devi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.96153843">
+          <caret line="47" column="38" selection-start-line="47" selection-start-column="38" selection-end-line="47" selection-end-column="38" />
+          <folding>
+            <marker date="1626172224324" expanded="true" signature="746:812" placeholder="SELECT `com`..." />
+            <marker date="1626172224324" expanded="true" signature="1119:1195" placeholder="SELECT * FRO..." />
+            <marker date="1626172224324" expanded="true" signature="1380:1422" placeholder="select * fro..pays..." />
+            <marker date="1626172224324" expanded="true" signature="1559:1614" placeholder="select * fro..souscripteurw..." />
+            <marker date="1626172224324" expanded="true" signature="1757:1811" placeholder="select * fro..souscripteurw..." />
+            <marker date="1626172224324" expanded="true" signature="1958:2222" placeholder="SELECT a.* F..." />
+            <marker date="1626172224324" expanded="true" signature="2663:3137" placeholder="INSERT INTO ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/mpaiement.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.807693">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding>
+            <marker date="1631786657906" expanded="true" signature="657:699" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/augmentation.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.038462">
+          <caret line="137" column="9" selection-start-line="137" selection-start-column="9" selection-end-line="137" selection-end-column="9" />
+          <folding>
+            <marker date="1631803059688" expanded="true" signature="579:625" placeholder="select * fro..policew..." />
+            <marker date="1631803059688" expanded="true" signature="977:1112" placeholder="select cod_z..avenantw..." />
+            <marker date="1631803059688" expanded="true" signature="1054:1111" placeholder="select max(c..avenantw..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/.htaccess">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="57" column="43" selection-start-line="57" selection-start-column="37" selection-end-line="57" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/produit/avpolvoyind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-24.192308">
+          <caret line="130" column="91" selection-start-line="130" selection-start-column="85" selection-end-line="130" selection-end-column="91" />
+          <folding>
+            <marker date="1631800739466" expanded="true" signature="395:732" placeholder="SELECT d.`co..." />
+            <marker date="1631800739466" expanded="true" signature="895:1247" placeholder="SELECT d.`co..." />
+            <marker date="1631800739466" expanded="true" signature="1333:1638" placeholder="SELECT d.`co..." />
+            <marker date="1631800739466" expanded="true" signature="1801:2121" placeholder="SELECT d.`co..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pavdest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-26.807692">
+          <caret line="62" column="34" selection-start-line="62" selection-start-column="34" selection-end-line="62" selection-end-column="34" />
+          <folding>
+            <marker date="1631803973497" expanded="true" signature="590:884" placeholder="SELECT s.*,v..." />
+            <marker date="1631803973497" expanded="true" signature="1019:1173" placeholder="select * fro..utilisateurs..." />
+            <marker date="1631803973497" expanded="true" signature="1064:1172" placeholder="select id_us..souscripteurw..." />
+            <marker date="1631803973497" expanded="true" signature="1114:1171" placeholder="select cod_s..policew..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pavind.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="22.846153">
+          <caret line="65" column="42" selection-start-line="64" selection-start-column="7" selection-end-line="65" selection-end-column="42" />
+          <folding>
+            <marker date="1626172402844" expanded="true" signature="571:952" placeholder="SELECT s.*,v..." />
+            <marker date="1626172402844" expanded="true" signature="1198:1352" placeholder="select * fro..utilisateurs..." />
+            <marker date="1626172402844" expanded="true" signature="1243:1351" placeholder="select id_us..souscripteurw..." />
+            <marker date="1626172402844" expanded="true" signature="1293:1350" placeholder="select cod_s..policew..." />
+            <marker date="1626172402844" expanded="true" signature="5622:5697" placeholder="SELECT * FRO..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sortie/pavaug.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.653846">
+          <caret line="123" column="69" selection-start-line="123" selection-start-column="69" selection-end-line="123" selection-end-column="69" />
+          <folding>
+            <marker date="1631804402806" expanded="true" signature="590:939" placeholder="SELECT s.*,v..." />
+            <marker date="1631804402806" expanded="true" signature="1078:1232" placeholder="select * fro..utilisateurs..." />
+            <marker date="1631804402806" expanded="true" signature="1123:1231" placeholder="select id_us..souscripteurw..." />
+            <marker date="1631804402806" expanded="true" signature="1173:1230" placeholder="select cod_s..policew..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php/avenant/voy/validationav.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7714885">
+          <caret line="490" column="0" selection-start-line="490" selection-start-column="0" selection-end-line="490" selection-end-column="0" />
+          <folding>
+            <marker date="1632039359813" expanded="true" signature="894:960" placeholder="SELECT `com`..." />
+            <marker date="1632039359813" expanded="true" signature="1116:1163" placeholder="SELECT * fro..." />
+            <marker date="1632039359813" expanded="true" signature="1841:1897" placeholder="SELECT seque..." />
+            <marker date="1632039359813" expanded="true" signature="2065:2194" placeholder="select cod_z..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="2139:2193" placeholder="select max(c..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="2358:2412" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="2735:2783" placeholder="select cod_z..pays..." />
+            <marker date="1632039359813" expanded="true" signature="3081:3645" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="4085:4648" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="4861:4942" placeholder="SELECT max(c..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="5080:5182" placeholder="UPDATE modif..." />
+            <marker date="1632039359813" expanded="true" signature="5273:5761" placeholder="insert into ..." />
+            <marker date="1632039359813" expanded="true" signature="5835:5923" placeholder="delete from ..." />
+            <marker date="1632039359813" expanded="true" signature="6071:6162" placeholder="SELECT MAX(p..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="6326:6620" placeholder="select p.cod..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="6691:6883" placeholder="select p.cod..policew..." />
+            <marker date="1632039359813" expanded="true" signature="7138:7711" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="8175:8231" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="8380:8435" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="8725:8992" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="9500:9553" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="9867:9920" placeholder="select *from..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="10052:10112" placeholder="select *from..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="10299:10359" placeholder="select *from..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="10596:10658" placeholder="select *from..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="10831:11060" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="11405:11634" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="12126:12181" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="12331:12627" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="13456:13511" placeholder="select * fro..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="13737:13998" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="14822:15423" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="15729:15787" placeholder="select sum(p..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="15975:16548" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="16910:16984" placeholder="select sum(p..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="17280:17860" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="18552:18607" placeholder="SELECT age f..souscripteurw..." />
+            <marker date="1632039359813" expanded="true" signature="18755:18835" placeholder="SELECT * FRO..." />
+            <marker date="1632039359813" expanded="true" signature="19032:19309" placeholder="SELECT a.* F..." />
+            <marker date="1632039359813" expanded="true" signature="19839:19923" placeholder="select sum(p..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="19839:19929" placeholder="select sum(p..avenantw..." />
+            <marker date="1632039359813" expanded="true" signature="20312:20898" placeholder="INSERT INTO ..." />
+            <marker date="1632039359813" expanded="true" signature="20947:20975" placeholder="update polic..." />
+            <marker date="1632039359813" expanded="true" signature="20947:20983" placeholder="update polic..." />
+            <marker date="1632039359813" expanded="true" signature="20947:21023" placeholder="update polic..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
